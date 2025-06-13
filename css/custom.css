@@ -1,0 +1,265 @@
+
+@font-face {
+    font-family: Semplicita Light;
+    src: url('../fonts/SemplicitaLight.otf');
+}
+
+.Semplicita {
+    font-family: Semplicita Light !important;
+}
+
+@font-face {
+    font-family: Futura Std Light;
+    src: url('../fonts/FuturaStdLight.otf');
+}
+
+.FuturaStdLight {
+    font-family: Futura Std Light;
+}
+
+
+.DevelopmentLogos {
+    float: right;
+    right: 20px;
+    top: 7px;
+    position: relative;
+}
+
+
+.modal-dialog iframe {
+    margin: 0 auto;
+    display: block;
+}
+
+.horizontal {
+    display: inline-block;
+    margin: 0;
+    background: linear-gradient(to top, #c8c5ac 50%, #fff 50%);
+}
+
+.horizontal2 {
+    display: inline-block;
+    margin: 0;
+    background: linear-gradient(to top, #d6caba 50%, #fff 50%);
+}
+
+.PageThickLine {
+    display: flex;
+    position: relative;
+    max-width: 100%;
+    height: 19px
+}
+
+    .PageThickLine img {
+        width: 100%;
+        height: 100%
+    }
+
+
+.parallax-Banner1 {
+    /* The image used */
+    /*background-image: url("../Images/Banner 1.png");*/
+    background-image: url("../img/demos/construction/backgrounds/Lounge.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+
+.parallax-Banner2 {
+    /* The image used */
+    background-image: url("../img/demos/construction/backgrounds/Study Night.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.TextVisualizer {
+    background-color: #4e4e4e;
+    background-color: rgba(78, 78, 78, .8);
+    /*border-radius: 25px;
+    -ms-border-radius: 25px;*/
+    width: 100%
+}
+
+.btn-developments {
+    width: 350px;
+    color: #d6caba !important;
+    font-size: 1.25rem;
+}
+
+
+.lineLogo {
+    width: 90px;
+    height: 37px;
+    margin-top: 30px
+}
+
+.divider {
+    height: 5px;
+}
+.cssmap-loader
+{
+    display:none !important;
+}
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .CenterMobile {
+        text-align: center !important;
+        padding-top: 3rem !important;
+        padding-bottom: 3rem !important;
+    }
+}
+
+
+.text-right {
+    text-align: right !important;
+}
+
+.detailsBackground {
+    background-image: url("../img/demos/construction/Developments/WestminsterPlace/Exterior View 1.jpg");
+    padding: 4.6153846154rem 0;
+}
+
+
+
+
+.developmentBackground {
+    background-image: url("../img/demos/construction/slides/devbackground.jpg");
+    padding: 4.6153846154rem 0;
+}
+
+.ascotBackground {
+    background-image: url("../img/demos/construction/Developments/AscotManor/Ancillary Renders 02.jpg");
+    padding: 4.6153846154rem 0;
+}
+
+.westminsterBackground {
+    background-image: url("../img/demos/construction/Developments/WestminsterPlace/Exterior View 2.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+.halfwayparksBackground {
+    background-image: url("../img/demos/construction/Developments/HalfwayParks/block\ view.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+.mulbartonBackground {
+    background-image: url("../img/demos/construction/Developments/MulbartonGardens/Unit\ 3\ View1\ \(7\).jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+.TribecaBackground {
+    background-image: url("../img/demos/construction/Developments/TribecaHill/ClubhouseRender.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+
+.ErandParkBackground {
+    background-image: url("../img/demos/construction/Developments/ErandPark/Erands Park - Guardhouse Render.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+.TheHabitatBackground {
+    background-image: url("../img/demos/construction/Developments/TheHabitat/4.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+
+.TheMaisonBackground {
+    background-image: url("../img/demos/construction/Developments/TheMaison/ExternalRender01.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+.OneOnHeatherBackground {
+    background-image: url("../img/demos/construction/Developments/OneOnHeather/IMG_1661.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom; /* Center the image */
+    background-size: cover;
+    padding: 4.6153846154rem 0;
+}
+
+
+.mapheight {
+    height: 500px;
+}
+
+
+
+/* 1792x828px at 326ppi */
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+
+
+    .mapheight {
+        height: 250px;
+    }
+}
+
+
+@media only screen and (max-width: 800px) {
+
+
+    .mapheight {
+        height: 250px;
+    }
+}
+
+
+
+@media only screen and (max-width: 800px) and (orientation : landscape) {
+
+  
+
+
+    .mapheight {
+        height: 250px;
+    }
+}
+
+
+
+@media only screen and (max-width: 1600px) {
+    html #header .header-logo .logo-sticky {
+        opacity: 1;
+        visibility: visible;
+        transform: translate3d(0, 0, 0) !important;
+    }
+}
