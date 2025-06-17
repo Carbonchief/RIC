@@ -263,3 +263,14 @@
         transform: translate3d(0, 0, 0) !important;
     }
 }
+
+@media only screen and (max-width: 575px) {
+    .btn-developments {
+        width: 100%;
+    }
+    .parallax-Banner1,
+    .parallax-Banner2 {
+        min-height: 300px;
+        background-attachment: scroll;
+    }
+}
